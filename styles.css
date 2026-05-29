@@ -1,0 +1,172 @@
+*   {
+     margin: 0;
+    box-sizing: border-box;
+}
+.header {
+    width: 100%;
+    height: 101px;
+    position: fixed;
+    display: inline-block;
+    text-align: center;
+    background-color: rgb(152, 216, 246);
+    z-index: 2;
+}
+body {
+    background-color: rgb(152, 216, 246);
+}
+nav {
+    position: fixed;
+    width: 100%;
+    top: 101px;
+    z-index: 2;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden; 
+    background-color: rgb(97, 198, 245)
+}
+ul li {
+    float: left;
+}
+ul li a {
+    display: block;
+    color: rgb(0, 1, 1);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+ul li a:hover {
+    background-color: rgb(81, 162, 200);
+}
+img {
+    border-radius: 10px;
+}
+p {
+    margin-left: 1.5em;
+}
+.banner  {
+    width: 50%;
+    position: relative;
+    height: 500px;
+    margin-top: 25px;
+    top: 125px;
+    object-fit: fill;
+    border: 10px solid;
+} 
+.a {  
+    width: 350px; 
+    position: relative;
+    height: 400px;
+    margin: 25px;
+}
+.b {
+    top: 200px; 
+    position: relative ;
+    margin: 10px;
+    align-items: center;
+    color: rgb(231, 82, 151);
+}
+.c {
+    top: 205px; 
+    position: relative;
+    margin-left: 10px;
+    font-size: medium;
+    float: right;
+    font-size: large;
+}
+.d {
+    width: 350px;
+    height: 400px;
+    margin-right: 10px;
+    float: left;
+    border: 10px solid rgb(208, 209, 92);
+}
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.e {
+    top: 250px;
+    position: relative;
+    color: rgb(13, 172, 209);
+}
+.f {
+    top: 275px;
+    position: relative;
+    font-size: large;
+}
+.g {
+    width: 350px;
+    height: 400px;
+    margin-right: 10px;
+    float: right;
+    border: 10px solid rgb(224, 144, 140);
+}
+.i {
+    margin: 20px;
+    position: relative;
+    font-size: xx-large;
+}
+.j {
+    margin: 20px;
+    position: relative;
+    float: left;
+}
+.h {
+   position: relative;
+    top: 180px; 
+}
+.table {
+    position: relative;
+    top: 200px;
+    
+}
+.elvis {
+    border: 10px solid rgb(224, 144, 140);
+}
+.lilrich {
+    border: 10px solid rgb(13, 172, 209);
+}
+.chuck {
+    border: 10px solid rgb(208, 209, 92);
+}
+.bd {
+    border: 10px solid rgb(231, 82, 151);
+}
+.chud {
+    border: 10px solid rgb(13, 172, 209);
+}
+.nirv {
+    border: 10px solid rgb(224, 144, 140);
+}
+.beach {
+    border: 10px solid rgb(231, 82, 151);
+}
+.elo {
+    border: 10px solid rgb(208, 209, 92);
+}
+.form {
+    position: relative;
+    top: 180px;
+}
+.albums {
+    position: relative;
+    top: 150px;
+}
+.albumtable {
+    border: 5px solid;
+    padding: 5px;
+    border-collapse: collapse;
+    width: 95%;
+    border-radius: 10px;
+    margin: 25px auto 
+}
+.z  {
+    position: relative;
+    top: 150px;
+}
+.y  {
+    top: 170px;
+    position: relative;
+}
